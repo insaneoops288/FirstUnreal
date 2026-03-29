@@ -73,7 +73,7 @@ Aymara1986Bible
 Aymara1997Bible
 AymaraBible
 Azerbaijan2013Bible
-AzerbaijanBible (Azerbajani
+AzerbaijanBible
 AzerbaijanSouthBible
 BagriBible
 BalineseBible
@@ -817,7 +817,7 @@ SidamoBible
 SindhiBible
 SindhiCommonBible
 SindhiHinduBible
-SindhiMuslimBible (Sindhi Bible
+SindhiMuslimBible
 SinhalaNRSVBible
 SinhalaSCVBible
 SinhalaSNRVBible
