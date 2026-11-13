@@ -1,0 +1,113 @@
+So first thing first we need to create a project.
+
+But I don't want to use a template in here because I want to explain everything from scratch so beginners
+
+can understand it better.
+
+So forgive me if I'm starting from very scratch in here.
+
+So for creating a project, just open up the Epic game launcher, go to Unreal Engine in here, go to
+
+library and install a Unreal Engine.
+
+The Unreal Engine that I'm using is 5.3.2, but if you want to use a newer version, 5.4, 5.5, 5.6
+
+doesn't matter, you can use it, but if you are a absolute beginner, it's better to stick with the
+
+version that I'm using for installing it.
+
+You can hit this plus and in here decide which version you want and after that hit install.
+
+That's it.
+
+Click on launch in here to launch the Unreal Engine.
+
+Now in here go to games and in here click on blank.
+
+And in the project default we want it to be blueprint.
+
+Of course again you can use C plus plus because this course is much more about the state machines animation
+
+blueprints animation layers.
+
+And in here the quality maximum.
+
+The target platform desktop is more than good enough.
+
+You don't need the starter content, you don't need the raytracing.
+
+And after that, choose a project location that you want to save your project.
+
+And I want to call it Lyra Alice.
+
+For Lyra Advanced Locomotion System had created to create that project.
+
+Now you can see it did create a blank project.
+
+If you go to content drawer, you can see there is nothing in content drawer in here.
+
+First thing first I want to right click create a new folder and call it levels.
+
+Okay.
+
+So we can create levels there.
+
+After that I want to go to file go to New Level.
+
+And in here I want to create a basic level that there is nothing in there.
+
+There is just some lights and fogs there, right?
+
+Nothing new.
+
+Click on create.
+
+Create that level.
+
+You can see it's just a box in here for our level.
+
+And it has a player start right.
+
+And after that go to file go to save current level and it will tell you where do you want to save it?
+
+I want to save it in levels and I want to call it level zero one or whatever you want to call it, hit
+
+save.
+
+Now we have a level.
+
+Let's just go to Edit Project Settings.
+
+And in here if you go to Maps and modes, we want to tell it whenever we open up this project, which
+
+level it should be opened by default in Editor Starter Map, click in here and choose the level zero
+
+one.
+
+And for this game default map, I want to choose the level one as well.
+
+No.
+
+Next thing that I want you to do, I want you to go to edit.
+
+Go to Editor preferences and you see whenever you open a file or blueprint or animation blueprint or
+
+whatever, it will open it up.
+
+Not in the main window, not beside this level.
+
+Right.
+
+And that is a problem for me for fixing that.
+
+You can just go to search in the editor preferences and search for open and in the asset editor open
+
+location change the default to main window.
+
+So from now on, whenever you open up a blueprint, it will be opened up beside the levels in the main
+
+window.
+
+After that you can close it and it will be saved by default, but it's safe to save everything.
+
+Right now we have a blank project that we can use.

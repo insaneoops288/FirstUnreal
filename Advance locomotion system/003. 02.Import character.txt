@@ -1,0 +1,205 @@
+Note that our project is ready.
+
+We need to import character and I want to use Lyra character in here.
+
+So I did migrate it.
+
+I don't want you to install the Lyra Project, the big project of the Lyra.
+
+I don't want you to do that.
+
+So I did migrate it and put it in a zip file and upload it to this section.
+
+So in the first video of this course, there is a zip file that is called character dot zip.
+
+Just download that.
+
+Put it on desktop like this.
+
+You can see character dot zip and right click on it.
+
+And in here extract everything extract all.
+
+And in here you don't need to do anything.
+
+Just hit extract and it will extract all the necessary files for our character and it will open it by
+
+default.
+
+You can see in these characters folder, if you double click on it there are some effects.
+
+Effects is just materials function, so don't worry about it.
+
+After that there is heroes folder.
+
+For that there is a skeleton there.
+
+There is a skeleton mesh in there and there is physics material for our character.
+
+No.
+
+Go back to characters folder.
+
+Now that you can see the characters folder that have all of these folders, Ctrl C to copy it.
+
+Okay, after that make sure you close the Unreal Engine, close it, go to where you save that project.
+
+In my case, it's called Lyra LS, and in this folder make sure you go to content and paste that characters
+
+folder in here Ctrl V to paste it over here and make sure you are pasting it in content folder.
+
+If you create a new folder in here and paste it there, it won't work.
+
+If you for example, go to level and paste it there, it won't work.
+
+So make sure you paste it in content folder because it's a migrated skeletal mesh, it should be on
+
+the content folder with that done, let's just go back and open up our Lyra Alice project in here.
+
+Double click on it to open it.
+
+And now if you go to Content drawer, you can see there is a characters folder in here.
+
+Let me explain something in here real fast.
+
+If you go to content you can see there is a collection folder and there is a developer folder in here
+
+as well.
+
+But we can't see it over here, right?
+
+Why?
+
+We can see it because by default it is hidden for making it visible.
+
+Of course we don't need it, but you can just go on setting and tell it.
+
+For example, show the developers content and you can see this is the folder that is by default there,
+
+but we don't want it.
+
+I just wanted to show you where it is.
+
+Just uncheck the show developers content.
+
+We have two folder, one character, one level.
+
+Let's just go to characters in here.
+
+Again there is effects, there is heroes and there is physics material.
+
+The one that is important for us is the hero's mannequin.
+
+And go to meshes.
+
+And in here we have a skeleton.
+
+We have a skeletal mesh for our masculine mannequin or male mannequin, and we have a skeletal mesh
+
+for queen that is feminine mannequin.
+
+We want to use skim money, double click on it to open it.
+
+And you can see this is the mannequin that they use in Lyra Project.
+
+And we want to use that as well.
+
+And at the end of the course I will show you how you can change the character.
+
+So now let's just see how we can change the color of our character.
+
+Of course, you don't need to know that, but I think it will be fun to look at that and change the
+
+color, right?
+
+So for doing that, we should find the material that we are using on these skeletal mesh okay.
+
+So go to Asset Detail and open up one of these material.
+
+Click in here and you can see there is two material inside our heroes folder mannequin materials instances
+
+and many right.
+
+These two is the blue one.
+
+What I want to do I want to select both of them by holding Ctrl and select both of them Ctrl D to duplicate
+
+them.
+
+And in here I want to change the color to yellow right.
+
+So I will call it yellow okay.
+
+This one and this one as well I want to name it yellow.
+
+So now with that we have material instance many zero one yellow and material instance many zero two
+
+yellow.
+
+Let's just double click on both of them.
+
+So open up both of them and change the color.
+
+For changing the color you can just go to Team Color and double click in here and change it to yellow
+
+for example.
+
+Right.
+
+We can save this color to use it for DMI money zero two yellow.
+
+So drag this and put it over here to save it okay that's it.
+
+This is a tip that Max in the discord channel taught me, and I think it looks good.
+
+You can create lots of color.
+
+For example, if you want it to be green, you can again put it over here.
+
+And now we have access to green and yellow again.
+
+We can do it for the red and grab these.
+
+Put it over here.
+
+Now we have access to the colors okay.
+
+We want it to be yellow.
+
+So click on the yellow and we set it there.
+
+Hit okay.
+
+And we should do the same for me.
+
+Many zero two yellow double click in here.
+
+And again we want to choose yellow in here.
+
+So click on yellow.
+
+Hit okay and save everything.
+
+Make sure you save everything.
+
+Now if you go back to our skeletal mesh it's not changing because we didn't change the material in here.
+
+So let's just change that.
+
+This is my money two blue.
+
+We want to change it to me.
+
+Money two yellow and we want to do it for this one as well.
+
+And my menu one yellow.
+
+No, we have a character that is yellow.
+
+Let's save.
+
+And we can just close it.
+
+And let's just go back to hero's mannequin meshes.
+
+And with that we have a yellow character.
