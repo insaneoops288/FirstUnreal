@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010. 09.Enhanced input.md",
-                "mode": "source",
+                "file": "003. 02.Import character.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "010. 09.Enhanced input"
+              "title": "003. 02.Import character"
             }
           }
         ]
@@ -187,13 +187,16 @@
   },
   "active": "0947f172f5f8833d",
   "lastOpenFiles": [
-    "003. 02.Import character.md",
     "002. 01.Create Blank project.md",
     "001. Introduction.md",
+    "004. 03.Gamemode and character class.md",
+    "003. 02.Import character.md",
+    "034. 33.Use layer interfaces for cycle.md",
+    "016. 15.Dynamic sequence with blend inertialization.md",
+    "010. 09.Enhanced input.md",
     "007. 06.Blueprint Interface.md",
     "006. 05.Blueprint casting.md",
     "005. 04.Animation blueprint.md",
-    "004. 03.Gamemode and character class.md",
     "무제.base"
   ]
 }
